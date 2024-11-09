@@ -23,8 +23,7 @@ This project focuses on analyzing and predicting customer sentiment in drug revi
 
 - **Objective**: Enhance healthcare decision-making by analyzing drug reviews.
 - **Method**: NLP and machine learning techniques to process and classify sentiment.
-- **Repository**: [Drug-Review-Analysis](#) _(Add repository link)_
-
+- **Repository**: [Drug-Review-Analysis](#) _link
 ---
 
 ## 📚 Past Projects
