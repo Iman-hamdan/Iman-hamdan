@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me
-I’m a Master’s student in AI Engineering at the University of San Diego, expected to graduate in April 2026. With a strong foundation in SEO, data analysis, and project management, I’m now transitioning into AI programming and machine learning. My passion lies in leveraging data to create impactful, AI-driven solutions, especially within healthcare, where I am currently working on a drug review sentiment analysis project.
+I’m currently pursuing a Master’s in AI Engineering at the University of San Diego, with an expected graduation in April 2026. With a background as a Senior SEO Manager, I've transitioned into AI programming and data analysis, focusing on applying AI solutions to healthcare and other industries. My career journey reflects my passion for using data to drive impactful insights and innovations, from improving search engine rankings to analyzing healthcare data.
 
 ---
 
@@ -19,10 +19,10 @@ I’m a Master’s student in AI Engineering at the University of San Diego, exp
 
 ## 🌱 Current Project
 **Drug Review Sentiment Analysis**  
-This project aims to analyze and predict customer sentiment in drug reviews to provide valuable insights for healthcare applications. Using a combination of natural language processing and machine learning, I’m developing a model that can classify user feedback with high accuracy.
+This project focuses on analyzing and predicting customer sentiment in drug reviews to support decision-making in healthcare. Through natural language processing and machine learning, I aim to build a model that accurately classifies and interprets user feedback.
 
-- **Objective**: Predict sentiments from drug review data to enhance decision-making in healthcare.
-- **Method**: Implementing NLP and ML techniques to process and analyze user sentiments.
+- **Objective**: Enhance healthcare decision-making by analyzing drug reviews.
+- **Method**: NLP and machine learning techniques to process and classify sentiment.
 - **Repository**: [Drug-Review-Analysis](#) _(Add repository link)_
 
 ---
@@ -30,16 +30,16 @@ This project aims to analyze and predict customer sentiment in drug reviews to p
 ## 📚 Past Projects
 
 **1. SEO Analytics & Conversion Optimization**  
-As a Senior SEO Manager, I developed data pipelines and A/B testing strategies that improved organic traffic by 40-45%. I also led the cleanup of data debt in Google Analytics and Google Tag Manager, ensuring accurate tracking and reporting.
+As a Senior SEO Manager, I led initiatives that improved organic traffic by 40-45% and enhanced user experience through technical SEO. I also spearheaded the data cleanup in Google Analytics and Google Tag Manager, ensuring accurate tracking and reporting.
 
 - **Skills Used**: Python, SQL, Google Analytics, Data Analysis
-- **Outcome**: Enhanced search rankings, improved page load speed, and restored correct tracking.
+- **Outcome**: Increased search rankings, optimized page load speed, and restored data accuracy.
 
 **2. Social Media Sentiment Analysis**  
-Developed a sentiment analysis model to predict customer sentiments from social media data, achieving high accuracy. This project furthered my understanding of natural language processing and model optimization.
+Developed a model to analyze customer sentiment from social media data, achieving high accuracy. This project helped me refine my skills in natural language processing and model optimization.
 
 - **Tech Stack**: Python, TensorFlow, NLP, Scikit-Learn
-- **Outcome**: Predicted customer sentiment trends with high accuracy.
+- **Outcome**: Provided insights into customer sentiment trends.
 - **Repository**: [Social-Media-Sentiment-Analysis](#) _(Add repository link)_
 
 ---
@@ -83,18 +83,18 @@ Developed a sentiment analysis model to predict customer sentiments from social 
 ---
 
 ## 🔍 Interests
-- **Healthcare Data Science:** Disease prediction, and personalized health insights.
-- **Machine Learning & NLP:** Developing classification models, sentiment analysis, and topic modeling.
-- **Data Science Applications Across Industries:** Open to exploring data-driven solutions in fields like finance, e-commerce, and environmental science.
-- **Deep Learning:** Advanced methods for recommendation systems, predictive analytics, and real-time applications.
+- **Healthcare Data Science**: Using AI to improve patient outcomes and insights.
+- **Natural Language Processing (NLP)**: Specialized in sentiment analysis and text classification.
+- **Machine Learning & AI**: Developing predictive models for data-driven decision-making.
+- **Technical SEO & Analytics**: Leveraging data to optimize user experience and organic reach.
 
 ---
 
 ## 📈 Career Goals
-Aiming to leverage my skills in data science and coding to make impactful contributions to healthcare, especially in disease prevention or prediction. I'm also open to opportunities across industries where data science can drive innovative solutions.
+Aiming to leverage my skills in AI, machine learning, and data analysis to make impactful contributions in healthcare, particularly in areas such as disease prevention and patient sentiment analysis. I'm also open to opportunities across other industries where data science and AI can drive meaningful improvements.
 
 ---
 
 ## 📫 Connect with Me
-- **Email:** al-hamdan@hotmail.com
-- **LinkedIn:** [Iman Hamdan](https://www.linkedin.com/in/iman-hamdan/)
+- **Email**: al-hamdan@hotmail.com
+- **LinkedIn**: [Iman Hamdan](https://www.linkedin.com/in/iman-hamdan/)
