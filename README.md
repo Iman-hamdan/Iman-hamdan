@@ -44,12 +44,29 @@ Developed a sentiment analysis model to predict customer sentiments from social 
 
 ---
 
-### 🛠️ Skills & Tools
+### 📊 GitHub Stats
+
+![Iman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iman-hamdan&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iman-hamdan&layout=compact&theme=radical)
+
+---
+
+### 🔥 Contributions & Streak
+
+![Iman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iman-hamdan&theme=radical)
+
+---
+
+### 🛠️ Languages & Tools
 
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **AI/ML Frameworks**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
@@ -60,6 +77,11 @@ Developed a sentiment analysis model to predict customer sentiments from social 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -81,4 +103,3 @@ I aim to leverage my skills in AI and data science to solve impactful problems, 
 
 - **Email**: al-hamdan@hotmail.com
 - **LinkedIn**: [Iman Hamdan](https://www.linkedin.com/in/iman-hamdan/)
-
