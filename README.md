@@ -26,14 +26,14 @@ The focus of this project is to perform sentiment analysis on patient reviews fo
 
 - **Objective**: Enhance healthcare decision-making by analyzing drug reviews.
 - **Method**: NLP and machine learning techniques to process and classify sentiment.
-- **Repository**: [Drug-Review-Analysis](#) _link
+- **Repository**: [Drug-Review-Analysis](https://github.com/Iman-hamdan/aai-501-group7-sentiment-analysis-drug-reviews) _link
   
 **Diabetes-Stats-Model**  
 The purpose of this project is to analyze health indicators to predict the likelihood of an individual having diabetes. Diabetes is a chronic condition that affects millions of people worldwide, and early prediction can help individuals take preventive measures to manage their health.
 
 - **Objective**: Perform exploratory data analysis (EDA) to identify patterns and trends & conduct hypothesis testing to validate the significance of key health features.
 - **Method**: Python & machine learning models to predict diabetes status..
-- **Repository**: [Diabetes-Stats-Model](#) _link
+- **Repository**: [Diabetes-Stats-Model](https://github.com/Iman-hamdan/Diabetes-Stats-Model) _link
   
 
 **SEO Analytics & Conversion Optimization**  
