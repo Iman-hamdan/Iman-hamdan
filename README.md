@@ -18,23 +18,31 @@ I’m currently pursuing a Master’s in AI Engineering at the University of San
 ---
 
 ## 🌱 Current Project
+
+---
+## 📚 Past Projects
 **Drug Review Sentiment Analysis**  
-This project focuses on analyzing and predicting customer sentiment in drug reviews to support decision-making in healthcare. Through natural language processing and machine learning, I aim to build a model that accurately classifies and interprets user feedback.
+The focus of this project is to perform sentiment analysis on patient reviews for various drugs. The goal is to predict the sentiment (positive or negative) of reviews based on textual data and related features such as drug name, condition treated, and patient ratings. The sentiment prediction will help pharmaceutical companies and healthcare professionals gain insights into patient satisfaction, identify potential issues with drugs, and ultimately improve patient outcomes.
 
 - **Objective**: Enhance healthcare decision-making by analyzing drug reviews.
 - **Method**: NLP and machine learning techniques to process and classify sentiment.
 - **Repository**: [Drug-Review-Analysis](#) _link
----
+  
+**Diabetes-Stats-Model**  
+The purpose of this project is to analyze health indicators to predict the likelihood of an individual having diabetes. Diabetes is a chronic condition that affects millions of people worldwide, and early prediction can help individuals take preventive measures to manage their health.
 
-## 📚 Past Projects
+- **Objective**: Perform exploratory data analysis (EDA) to identify patterns and trends & conduct hypothesis testing to validate the significance of key health features.
+- **Method**: Python & machine learning models to predict diabetes status..
+- **Repository**: [Diabetes-Stats-Model](#) _link
+  
 
-**1. SEO Analytics & Conversion Optimization**  
+**SEO Analytics & Conversion Optimization**  
 As a Senior SEO Manager, I led initiatives that improved organic traffic by 40-45% and enhanced user experience through technical SEO. I also spearheaded the data cleanup in Google Analytics and Google Tag Manager, ensuring accurate tracking and reporting.
 
 - **Skills Used**: Python, SQL, Google Analytics, Data Analysis
 - **Outcome**: Increased search rankings, optimized page load speed, and restored data accuracy.
 
-**2. Social Media Sentiment Analysis**  
+**Social Media Sentiment Analysis**  
 Developed a model to analyze customer sentiment from social media data, achieving high accuracy. This project helped me refine my skills in natural language processing and model optimization.
 
 - **Tech Stack**: Python, TensorFlow, NLP, Scikit-Learn
